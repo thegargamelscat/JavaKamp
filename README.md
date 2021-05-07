@@ -1,2 +1,1 @@
-# JavaKamp
-Ödev 1
+# JavaCampDay3Homework2
